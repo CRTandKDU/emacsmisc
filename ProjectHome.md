@@ -1,0 +1,1 @@
+A simple implementation of Emacs as a Google Blogger front-end.
